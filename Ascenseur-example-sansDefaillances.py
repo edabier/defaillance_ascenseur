@@ -505,6 +505,9 @@ class Elevator:
         self.button1.configure(style="Black.TButton")
         self.button1.pack()
 
+class Portes_défaillantes(Lift,Etages):
+    
+
 
 
 def main(): 
